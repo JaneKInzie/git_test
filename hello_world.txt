@@ -2,3 +2,4 @@ Test of git
 * {
     color:purple;
 }
+Test of git
